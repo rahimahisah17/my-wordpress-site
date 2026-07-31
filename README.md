@@ -37,8 +37,6 @@ The environment is configured using a `compose.yml` file, allowing both services
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 my-wordpress-site/
 ├── screenshots/
